@@ -1,0 +1,11 @@
+{
+	"name": "retarget-mouse-scroll",
+	"version": "0.0.2",
+	"title": "RetargetMouseScroll",
+	"description": "RetargetMouseScroll implements a simple API to retarget mouse scroll events.",
+	"author": {
+		"name": "Eli Grey",
+		"url": "http://eligrey.com/blog/post/retargetmousescroll"
+	},
+	"license": "MIT"
+}
